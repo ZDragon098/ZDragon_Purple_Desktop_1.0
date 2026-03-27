@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/766e3cc1-1c4c-4a6b-8d84-664f19840062
 3. Mở **Windhawk** và cài đặt các bản mod.
     * **Windows 11 Taskbar Styler:** Chỉnh setting > Matter.
     * **Windows 11 Start Menu Styler:** Chỉnh setting > Liqid Glass (for the redesigned Start Menu).
-
+4. Mở **Lively Wallpaper** và thêm video nền bạn yêu thích vào
 ## Lưu ý
 1. Nhớ để thanh taskbar ở vị trí center.
 2. Để thanh Search ở dạng icon only.
