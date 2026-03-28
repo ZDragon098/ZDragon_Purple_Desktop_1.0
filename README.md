@@ -32,10 +32,8 @@ https://github.com/user-attachments/assets/766e3cc1-1c4c-4a6b-8d84-664f19840062
 4. Mở **Lively Wallpaper** và thêm video nền bạn yêu thích vào
 ## Lưu ý
 1. Nhớ để thanh taskbar ở vị trí center.
-2. Để thanh Search ở dạng icon only.
-
-## 📝 Lưu ý cho Music Skin
-Để widget nhạc hoạt động, hãy đảm bảo bạn đã chỉnh sửa file `Variables\Music.inc` để khớp với trình phát nhạc bạn đang dùng (Spotify, Web, v.v.).
+2. Để thanh Search ở dạng icon only (Thì trông nó đẹp hơn)
+3. Nhớ phải tải WebNowPlaying extension trên trình duyệt của bạn
 
 ---
 *Project này được thực hiện bởi **Giáp Văn Long** - Sinh viên CNTT tại PTIT.*
