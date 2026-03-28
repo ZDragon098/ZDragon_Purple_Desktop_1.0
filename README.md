@@ -34,8 +34,5 @@ https://github.com/user-attachments/assets/766e3cc1-1c4c-4a6b-8d84-664f19840062
 1. Nhớ để thanh taskbar ở vị trí center.
 2. Để thanh Search ở dạng icon only.
 3. Nhớ tải *WebNowPlaying extension* trên trình duyệt bạn dùng để phát nhạc
-##  Lưu ý cho Music Skin
-Để widget nhạc hoạt động, hãy đảm bảo bạn đã chỉnh sửa file `Variables\Music.inc` để khớp với trình phát nhạc bạn đang dùng (Spotify, Web, v.v.).
-
 ---
 *Project này được thực hiện bởi **Giáp Văn Long** - Sinh viên CNTT tại PTIT.*
